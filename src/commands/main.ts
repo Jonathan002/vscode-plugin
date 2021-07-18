@@ -1,8 +1,6 @@
 import { tmpdir } from 'os'
 import { join } from 'path'
-
 import * as vscode from 'vscode'
-
 import { Collector } from '../utils/Collector'
 import { Displayer } from '../utils/Displayer'
 import { Faker } from '../utils/Faker'

@@ -1,9 +1,4 @@
-import {
-  ClassDeclaration,
-  MethodDeclaration,
-  PropertyDeclaration,
-  TypescriptParser,
-} from 'typescript-parser'
+import { ClassDeclaration, MethodDeclaration, PropertyDeclaration, TypescriptParser, } from 'typescript-parser'
 
 const getDeclarations = async (code: string) => {
   const parser = new TypescriptParser()
