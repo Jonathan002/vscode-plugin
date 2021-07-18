@@ -1,15 +1,15 @@
 {
-  "name": "ts-mock",
-  "publisher": "caomeinaixi",
-  "displayName": "TS Mock",
-  "description": "Generate mock data from interface and Generate interface from json/object/class.",
+  "name": "ts-mock-extended",
+  "publisher": "jonathan",
+  "displayName": "Ts-Mock-Extended",
+  "description": "Generate mock data from interface and classes and Generate interface or class from json/object/class.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/981377660LMT/vscode-plugin/tree/ts-interface-mock"
+    "url": "https://github.com/Jonathan002/vscode-plugin/tree/ts-interface-mock"
   },
   "bugs": {
-    "url": "https://github.com/981377660LMT/vscode-plugin/issues",
-    "email": "lmt2818088@gmail.com"
+    "url": "https://github.com/Jonathan002/vscode-plugin/issues",
+    "email": "jonathanf002@gmail.com"
   },
   "icon": "icon.png",
   "version": "0.0.2",
